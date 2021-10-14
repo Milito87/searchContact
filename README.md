@@ -2,4 +2,4 @@
 
 buscar telefono en agenda
 
-![Emulador]()
+![Emulador](image.png)
